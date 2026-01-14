@@ -5,6 +5,7 @@ A structured learning journey from Go basics to mastery.
 ## Progress
 
 - [x] [Day 1](day1/) - Fundamentals: variables, types, constants, printf, input, operators
+- [x] [Day 2](day2/) - Control flow: if/else, for loops, switch statements
 
 ## Roadmap
 
