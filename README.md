@@ -8,6 +8,7 @@ A structured learning journey from Go basics to mastery.
 - [x] [Day 2](day2/) - Control flow: if/else, for loops, switch statements
 - [x] [Day 3](day3/) - Functions: parameters, return values, multiple returns, variadic
 - [x] [Day 4](day4/) - Arrays and slices
+- [x] [Day 5](day5/) - Maps
 
 ## Roadmap
 
