@@ -9,6 +9,7 @@ A structured learning journey from Go basics to mastery.
 - [x] [Day 3](day3/) - Functions: parameters, return values, multiple returns, variadic
 - [x] [Day 4](day4/) - Arrays and slices
 - [x] [Day 5](day5/) - Maps
+- [x] [Day 6](day6/) - Pointers
 
 ## Roadmap
 
