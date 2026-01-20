@@ -10,6 +10,8 @@ A structured learning journey from Go basics to mastery.
 - [x] [Day 4](day4/) - Arrays and slices
 - [x] [Day 5](day5/) - Maps
 - [x] [Day 6](day6/) - Pointers
+- [x] [Day 7](day7/) - Review & Mini Project
+- [x] [Day 8](day8/) - Structs & Methods
 
 ## Roadmap
 
