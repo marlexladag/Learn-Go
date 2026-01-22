@@ -70,7 +70,7 @@ func main() {
 	fmt.Println("Person 1:", *p1)
 
 	// With validation
-	p2, err := NewPersonValidated("", -5)
+	_, err := NewPersonValidated("", -5)
 	if err != nil {
 		fmt.Println("Error:", err)
 	}
